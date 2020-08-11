@@ -4,7 +4,7 @@
   "description": "A simple react app",
   "main": "index.jsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel ./app/public/src/html/index.html"
   },
   "repository": {
     "type": "git",
