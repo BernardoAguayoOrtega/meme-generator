@@ -1,6 +1,10 @@
 //import react
 import React, { Component } from "react";
 
+//import components
+import Header from "./Header";
+import MemeGenerator from "./MemeGenerator";
+
 //app component
 export default class App extends Component {
   //constructor
@@ -13,7 +17,8 @@ export default class App extends Component {
   render() {
     return (
       <section>
-        <h1>Hello there</h1>
+        <Header/>
+        <MemeGenerator/>
       </section>
     );
   }
