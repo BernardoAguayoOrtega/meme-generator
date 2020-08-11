@@ -1,3 +1,12 @@
+#dist
+dist
+
+#cahce
+.cache
+
+#node modules
+node_modules
+
 # Logs
 logs
 *.log

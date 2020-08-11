@@ -1,0 +1,29 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "A simple react app",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BernardoAguayoOrtega/meme-generator.git"
+  },
+  "keywords": [
+    "React.js",
+    "React",
+    "js"
+  ],
+  "author": "Bernardo Aguayo Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernardoAguayoOrtega/meme-generator/issues"
+  },
+  "homepage": "https://github.com/BernardoAguayoOrtega/meme-generator#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
