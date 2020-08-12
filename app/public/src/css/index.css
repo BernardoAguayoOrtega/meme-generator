@@ -1,0 +1,31 @@
+/*general styles*/
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 15px;
+}
+
+/*figures*/
+figure {
+  max-width: 10rem;
+}
+
+/*img*/
+img {
+  width: 100%;
+}
+
+/*header*/
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 0.1rem solid black;
+  padding: 1rem;
+  margin: .5rem;
+}
+
+/*header p*/
+header > p {
+    font-size: 3rem;
+}
